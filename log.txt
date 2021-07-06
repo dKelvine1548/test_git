@@ -1,4 +1,16 @@
-[33mcommit 8dd5bfe4428911bf2369439c285f8d76ef624b03[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit d2c015ccd15a9455cbaa54abc9d1628a4c9cb430[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Nkayoum <fares.nkayoum@2tcorp.org>
+Date:   Tue Jul 6 18:28:04 2021 +0200
+
+    Arranger le nom de la page d'acceuil
+
+[33mcommit fec7e3f5e4435b7ebe280dc0f5da8c238b015969[m
+Author: dkelvine1548 <71010229+dKelvine1548@users.noreply.github.com>
+Date:   Tue Jul 6 17:09:53 2021 +0100
+
+    modification du titre du home page
+
+[33mcommit 8dd5bfe4428911bf2369439c285f8d76ef624b03[m
 Author: Nkayoum <fares.nkayoum@2tcorp.org>
 Date:   Tue Jul 6 18:05:43 2021 +0200
 
