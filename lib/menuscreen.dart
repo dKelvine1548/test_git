@@ -4,7 +4,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 //import 'package:firebase_auth_web/firebase_auth_web.dart';
 
-class menuScreen extends StatelessWidget{
+class MenuScreen extends StatelessWidget{
   //final auth = FirebaseAuth.instance;
    @override
   Widget build(BuildContext context) {

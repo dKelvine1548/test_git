@@ -1,7 +1,7 @@
 // import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:test_git/menuscreen.dart';
+import 'package:test_git/MenuScreen.dart';
 import 'package:test_git/utilities/constants.dart';
 //import 'package:firebase_auth_web/firebase_auth_web.dart';
 
@@ -144,7 +144,7 @@ class _LoginScreenState extends State<LoginScreen> {
         elevation: 5.0,
         onPressed: () {
           //auth.signInWithEmailAndPassword(email: _Email, password: _Password);
-          Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => menuScreen()));
+          Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (context) => MenuScreen()));
         },
         padding: EdgeInsets.all(15.0),
         shape: RoundedRectangleBorder(
